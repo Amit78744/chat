@@ -5,7 +5,7 @@ source /home/ec2-user/.bash_profile
 sudo chmod -R 777 /home/ec2-user/chat
 
 #navigate into our working directory where we have all our github files
-cd /home/ec2-user/socket
+cd /home/ec2-user/chat
 
 #install node modules
 npm install
